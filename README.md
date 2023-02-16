@@ -4,6 +4,7 @@
 
 | Command | Description |
 | :-----: | :---------: |
+| **`git --version`** | Verifica a versão instalada. |
 
 ### Start a Repository
 

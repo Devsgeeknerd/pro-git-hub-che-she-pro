@@ -1,5 +1,7 @@
 # Git & GitHub — Cheat Sheet
 
+## GitHub
+
 <!-- Título -->
 ## &#8505; Informações
 

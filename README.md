@@ -16,6 +16,9 @@
 
 ### Add
 
+| Command | Description |
+| :-----: | :---------: |
+
 <!-- Título -->
 ## &#8505; Informações
 

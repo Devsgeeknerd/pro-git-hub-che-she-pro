@@ -4,6 +4,9 @@
 
 ### Start a Repository
 
+| Command | Description |
+| :-----: | :---------: |
+
 <!-- Título -->
 ## &#8505; Informações
 

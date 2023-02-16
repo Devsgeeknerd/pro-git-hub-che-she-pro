@@ -2,6 +2,9 @@
 
 ## GitHub
 
+| Command | Description |
+| :-----: | :---------: |
+
 ### Start a Repository
 
 | Command | Description |

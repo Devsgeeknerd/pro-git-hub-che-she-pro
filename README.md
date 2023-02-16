@@ -1,6 +1,6 @@
 # Git & GitHub — Cheat Sheet
 
-## GitHub
+## Git e GitHub Config
 
 | Command | Description |
 | :-----: | :---------: |

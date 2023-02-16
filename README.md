@@ -6,6 +6,8 @@
 
 | Command | Description |
 | :-----: | :---------: |
+| **`git init`** | Inicia um repositório local. |
+| **`git clone ssh://git@github.com/[username]/[repository-name].git`** | Cria uma cópia do repositório local. |
 
 <!-- Título -->
 ## &#8505; Informações
